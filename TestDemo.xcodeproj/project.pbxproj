@@ -15,6 +15,7 @@
 		012010321C4929C100F4BDF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 012010301C4929C100F4BDF0 /* LaunchScreen.storyboard */; };
 		0120103D1C4929C100F4BDF0 /* TestDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0120103C1C4929C100F4BDF0 /* TestDemoTests.m */; };
 		012010481C4929C100F4BDF0 /* TestDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 012010471C4929C100F4BDF0 /* TestDemoUITests.m */; };
+		012010561C492A5200F4BDF0 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 012010551C492A5200F4BDF0 /* 1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		012010431C4929C100F4BDF0 /* TestDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		012010471C4929C100F4BDF0 /* TestDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestDemoUITests.m; sourceTree = "<group>"; };
 		012010491C4929C100F4BDF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		012010551C492A5200F4BDF0 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpeg; path = "../../虎嗅阅读/HuXiu/1.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		012010211C4929C100F4BDF0 /* TestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				012010551C492A5200F4BDF0 /* 1.jpeg */,
 				012010251C4929C100F4BDF0 /* AppDelegate.h */,
 				012010261C4929C100F4BDF0 /* AppDelegate.m */,
 				012010281C4929C100F4BDF0 /* ViewController.h */,
@@ -246,6 +249,7 @@
 				012010321C4929C100F4BDF0 /* LaunchScreen.storyboard in Resources */,
 				0120102F1C4929C100F4BDF0 /* Assets.xcassets in Resources */,
 				0120102D1C4929C100F4BDF0 /* Main.storyboard in Resources */,
+				012010561C492A5200F4BDF0 /* 1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
